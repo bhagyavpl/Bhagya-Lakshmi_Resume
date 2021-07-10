@@ -34,8 +34,8 @@
 
 ### **Skills**
 - Core Java <br>
- * Git hub <br>
- * *HTML* <br>
+* Git hub <br>
+* *HTML* <br>
 - *CSS* <br>
 - *Python* <br>
 
