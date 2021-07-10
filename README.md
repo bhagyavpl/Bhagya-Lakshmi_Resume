@@ -33,12 +33,9 @@
 - Percentage : 90% <br>
 
 ### **Skills**
-- *Java Parts* <br>
-    1.Core Java <br>
-    2.Advanced Java <br>
-* Git hub
-  
-- *HTML* <br>
+- Core Java <br>
+ * Git hub <br>
+ * *HTML* <br>
 - *CSS* <br>
 - *Python* <br>
 
